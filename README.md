@@ -1,0 +1,2 @@
+# akku
+sonic_tesnet
